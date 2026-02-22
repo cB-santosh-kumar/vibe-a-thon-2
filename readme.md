@@ -2,6 +2,8 @@
 
 [Show prompt file](prompt.md)
 
+Video Link - https://drive.google.com/file/d/1F5W-fUp1ugr_lWVGorubr5mksc7naX-y/view?usp=drive_link
+Deployed Link - http://codebucket.santoshmanav.site
 ## Run steps
 
 1. Backend:
