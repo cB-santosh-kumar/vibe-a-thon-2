@@ -4,7 +4,7 @@
 
 Video Link - https://drive.google.com/file/d/1F5W-fUp1ugr_lWVGorubr5mksc7naX-y/view?usp=drive_link
 
-Deployed Link - http://codebucket.santoshmanav.site
+Deployed Link - https://codebucket.santoshmanav.site  -> Changing http to https on 23-03-2026 for quick accessibility
 ## Run steps
 
 1. Backend:
